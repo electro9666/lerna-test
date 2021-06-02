@@ -42,3 +42,5 @@ lerna add axios --scope=test2 --peer
 
 # 함께 실행
 npx lerna run start
+
+# ??
