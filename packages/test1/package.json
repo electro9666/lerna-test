@@ -1,0 +1,24 @@
+{
+  "name": "test1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "sanghun <sanghun@mhand.net>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  }
+}
